@@ -10,6 +10,7 @@ A standardized way to add online payments using [Omnipay](https://omnipay.thephp
 - Stripe
 - Mollie
 - Square
+- GP WebPay (Czech)
 
 ### Getting Started
 Go to **Sales > Payments** to enable and manage payments.

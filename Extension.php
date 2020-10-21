@@ -39,6 +39,11 @@ class Extension extends BaseExtension
                 'name' => 'lang:igniter.payregister::default.square.text_payment_title',
                 'description' => 'lang:igniter.payregister::default.square.text_payment_desc',
             ],
+			'Igniter\PayRegister\Payments\GPWebPay' => [
+                'code' => 'gpwebpay',
+                'name' => 'lang:igniter.payregister::default.gpwebpay.text_payment_title',
+                'description' => 'lang:igniter.payregister::default.gpwebpay.text_payment_desc',
+            ],
         ];
     }
 }

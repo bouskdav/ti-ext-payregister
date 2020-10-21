@@ -138,4 +138,33 @@ return [
 
         'help_square' => 'Get Square API Keys from <a href="https://developer.squareup.com">here</a>',
     ],
+	
+	'gpwebpay' => [
+        'text_payment_title' => 'GP Webpay',
+        'text_payment_desc' => 'Accept payment cards via Global Payments',
+
+        'text_description' => 'Pay by Credit Card using Global Payments',
+        'text_live' => 'Live',
+        'text_test' => 'Test',
+        'text_payment_status' => 'Payment %s (%s)',
+
+        'label_title' => 'Title',
+        'label_description' => 'Description',
+        'label_transaction_mode' => 'Transaction Mode',
+		
+        'label_test_secret_key' => 'Test Secret Key',
+        'label_test_publishable_key' => 'Test Publishable Key',
+        'label_test_secret_key_password' => 'Test Secret Key Password',
+		
+        'label_live_secret_key' => 'Live Secret Key',
+        'label_live_publishable_key' => 'Live Publishable Key',
+        'label_live_secret_key_password' => 'Live Secret Key Password',
+        
+		'label_priority' => 'Priority',
+        'label_status' => 'Status',
+		
+        'merchant_number' => 'Merchant number',
+
+        'help_gpwebpay' => 'Get Square API Keys from <a href="https://developer.squareup.com">here</a>',
+    ],
 ];
